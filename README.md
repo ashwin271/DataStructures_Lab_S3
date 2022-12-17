@@ -1,26 +1,30 @@
-# Data Structure Lab Experiments
+# Data Structures Lab Experiments
 
-Welcome to the data structure lab experiments folder! This folder contains a collection of experiments focused on exploring and implementing different data structures in [Programming Language]. 
+This folder contains the experiments for the data structures lab course.
 
 ## Table of Contents
-- [Experiment 1: Linked Lists](#experiment-1)
-- [Experiment 2: Stacks and Queues](#experiment-2)
-- [Experiment 3: Trees](#experiment-3)
+- **Experiment 1:**
+  - [Polynomial Representation](./Polynomial_representation/)
+  - [Sparse Matrix to Efficient](./Sparse_to_efficient/)
+- **Experiment 2:**
+  - [Stack](./Stack/)
+  - [Queue](./Linear_queue/)
+- **Experiment 3:**
+  - [Circular Queue](./Circular_queue/)
+  - [Double Ended Queue](./Double_ended_queue/)
+- **Experiment 4:**
+  - [Singly Linked List](./Singly_linked_list/)
+- **Experiment 5:**
+  - [Polynomial Addition](./Polynomial_addition/)
+- **Experiment 6:**
+  - [Infix Expression to Postfix Expresssion](./Infix_to_postfix/)
+- **Experiment 7:**
+  - [Searching Algorithms](./Searching_algorithms/)
+- **Experiment 8:**
+  - [Binary Tree](./Binary_tree/)
 
-## Experiment 1: Linked Lists
-
-In this experiment, we will implement and analyze the performance of linked lists in [Programming Language]. 
-
-Directory: [Linked Lists Directory](link-to-directory)
-
-## Experiment 2: Stacks and Queues
-
-In this experiment, we will implement and compare the performance of stacks and queues in [Programming Language].
-
-Directory: [Stacks and Queues Directory](link-to-directory)
-
-## Experiment 3: Trees
-
-In this experiment, we will implement and analyze the performance of different types of trees in [Programming Language], including binary search trees and AVL trees.
-
-Directory: [Trees Directory](link-to-directory)
+## Instructions
+1. Navigate to the folder for the desired experiment.
+2. Read the `README.md` file in that folder for specific instructions on how to run the experiment.
+3. Follow the instructions to run the experiment and answer the questions in the provided worksheet.
+4. Submit the completed worksheet to your instructor.
