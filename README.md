@@ -1,6 +1,8 @@
+![Tree](https://miro.medium.com/max/828/1*KpDOKMFAgDWaGTQHL0r70g.webp)
+
 # Data Structures Lab Experiments
 
-This folder contains the experiments for the data structures lab course.
+This folder contains the experiments for the data structures lab (Semester 3).
 
 ## Table of Contents
 - **Experiment 1:**
@@ -22,9 +24,3 @@ This folder contains the experiments for the data structures lab course.
   - [Searching Algorithms](./Searching_algorithms/)
 - **Experiment 8:**
   - [Binary Tree](./Binary_tree/)
-
-## Instructions
-1. Navigate to the folder for the desired experiment.
-2. Read the `README.md` file in that folder for specific instructions on how to run the experiment.
-3. Follow the instructions to run the experiment and answer the questions in the provided worksheet.
-4. Submit the completed worksheet to your instructor.
